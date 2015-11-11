@@ -44,3 +44,6 @@ Calcul de la taille de la police en fonction du titre (reduction des grands titr
 
 3.1.9
 Correction bug - Calcul de la taille nom composant (reduction des grands titres)
+
+3.2.0
+Correction bug - Suppression ligne console.table qui empêchait IE d'afficher les zones
